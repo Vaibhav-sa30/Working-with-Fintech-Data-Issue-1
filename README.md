@@ -14,6 +14,14 @@ Following data from Shop.Happy is provided to us:
 3. AB Testing data: AB testing data for 3 months for transactions with random recommendation (nudge) of Funding Instrument as default (control group) and data-based recommendation (nudge) of Funding Instrument as default (test group). The test/control group tag for every transaction is provided.
 
 
+## What is Nudge Economics?
+
+Nudge economics a type of behavioral economics or choice architecture, that combines insights from psychology, economics, and behavioral science to understand how people make decisions. This designs intervention that guide or "nudge" individuals toward making better choices without mandating or restricting their options.
+
+People's decisions can be influenced by the way choices are presented to them. And that's the central idea of nudge economics. People often exhibit irrational or suboptimal behaviors due to cognitive biases, limited information, or other psychological factors. 
+
+
+
 ![image](https://github.com/Vaibhav-sa30/Working-with-Fintech-Data-Issue-1/assets/86743451/c72bcc4d-6f11-47a8-b388-a78c38f48a82)
 
 A/B testing to perform nudge in order to increase user engagement.
